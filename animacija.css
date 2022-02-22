@@ -29,7 +29,6 @@ z-index: 2;
     background-color: #050210;
     top: 25px;
     left: 25px;
-    z-index: 3;
 }
 
 .Box-1::after {
